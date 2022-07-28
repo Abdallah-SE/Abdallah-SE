@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdallah Mahmoud :-
+- 👋 Ahlan, I’m Abdallah Mahmoud :-
 - ☀ I’m interested in coding and design.
 - ☕ I've fallen in love with problem solving.
 - 🌱 I’m currently learning full stack developing.
